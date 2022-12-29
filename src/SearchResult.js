@@ -2,7 +2,7 @@ import EachBook from "./EachBook";
 import PropTypes from "prop-types";
 
 const SearchResult=({searches,handleupdate,searchQuery,listBook})=>{
-/*let arr=[];
+/*
 for(let i=0;i<searches.length;i++){
     for(let j=0;j<listBook.length;j++){
         if(searches[j].id===listBook[i].id){
@@ -10,6 +10,17 @@ for(let i=0;i<searches.length;i++){
         }else{arr.push(searches[j])}
     }
 }*/
+
+
+searches.forEach(esearch => {
+    listBook.forEach(eshelf => {
+        if(esearch.id===eshelf.id){
+        esearch.shelf=eshelf.shelf;
+        
+        }
+    });
+});
+
 return(        
        <div className="search-books-results">
 <ol className="books-grid">

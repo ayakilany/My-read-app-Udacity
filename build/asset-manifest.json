@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/My-read-app-Udacity/static/css/main.967c711e.chunk.css",
+    "main.js": "/My-read-app-Udacity/static/js/main.af9ae32f.chunk.js",
+    "main.js.map": "/My-read-app-Udacity/static/js/main.af9ae32f.chunk.js.map",
+    "runtime-main.js": "/My-read-app-Udacity/static/js/runtime-main.795ae7ca.js",
+    "runtime-main.js.map": "/My-read-app-Udacity/static/js/runtime-main.795ae7ca.js.map",
+    "static/js/2.e7e56010.chunk.js": "/My-read-app-Udacity/static/js/2.e7e56010.chunk.js",
+    "static/js/2.e7e56010.chunk.js.map": "/My-read-app-Udacity/static/js/2.e7e56010.chunk.js.map",
+    "index.html": "/My-read-app-Udacity/index.html",
+    "static/css/main.967c711e.chunk.css.map": "/My-read-app-Udacity/static/css/main.967c711e.chunk.css.map",
+    "static/js/2.e7e56010.chunk.js.LICENSE.txt": "/My-read-app-Udacity/static/js/2.e7e56010.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/My-read-app-Udacity/static/media/arrow-drop-down.98ef3b31.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.795ae7ca.js",
+    "static/js/2.e7e56010.chunk.js",
+    "static/css/main.967c711e.chunk.css",
+    "static/js/main.af9ae32f.chunk.js"
+  ]
+}

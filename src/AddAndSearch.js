@@ -28,7 +28,7 @@ const AddAndSearch = ({
         }
         else {
           if (cleaner) {
-            setSearches(listBook.concat(result))
+            setSearches(result)
             console.log(result)
           }
         }
